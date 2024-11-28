@@ -1,6 +1,6 @@
 ## **Blogify**
 
-**Link to the website** : 
+**Link to the website** : https://arnavgholap.github.io/Blogify/
 
 ## Features:
 
