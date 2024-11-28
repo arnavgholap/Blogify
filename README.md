@@ -1,6 +1,6 @@
 ## **Blogify**
 
-**Link to the live demo of the website** : 
+**Link to the live demo of the website** : https://arnavgholap.github.io/Blogify/
 
 ## Features:
 
